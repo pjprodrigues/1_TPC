@@ -1,3 +1,6 @@
 Paulo Jorge Pereira Rodrigues
 
 numero de aluno: A22110865
+
+email:
+a22110865@alunos.ulht.pt
